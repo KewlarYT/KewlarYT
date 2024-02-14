@@ -1,6 +1,6 @@
 ## Hi, I'm kewlar.
 
-Owner at Project Gaming Network, we develop & operate top quality, best experience game servers for our community
+Owner at Project Gaming Network, we develop & operate top quality, best experience game servers for our community.
 
 <!--
 **KewlarYT/KewlarYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
